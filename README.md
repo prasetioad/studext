@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=300 src="https://www.studext.id/logo-studext.png" alt="logo" ></a>
+ <img height=200 src="https://www.studext.id/logo-studext.png" alt="logo" ></a>
 </p>
 <div align="center">
   
