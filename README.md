@@ -9,7 +9,7 @@
 </div>
   
 # Studext
-Some test page from Studext and one of my portfolio in creating page using React Js.
+Some test page from Studext and one of my portfolio in creating page using React Js and my first Tailwidn Css.
 
 ### Prerequisites
 
