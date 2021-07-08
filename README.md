@@ -14,7 +14,7 @@ Some test page from Studext and one of my portfolio in creating page using React
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* [NodeJs](https://nodejs.org/en/)
+* [React Js](https://reactjs.org/)
 
 
 ## Instalation
@@ -40,7 +40,7 @@ npm start
 </p>
 
 ## Built Using
-* NextJS
+* React Js
 * React Modal Packages
 * React Icon packages
 * React HorizontalScroll
