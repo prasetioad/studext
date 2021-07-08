@@ -19,8 +19,9 @@ function Peringkat() {
                         </div>
                         <div className="unduh text-sm font-semibold flex space-x-2 mt-2 text-blue-400">
                             <img src="./asset/Download.png" alt="" />
-
-                            <p>Unduh .CSV</p>
+                            <a href="">
+                                <p>Unduh .CSV</p>
+                            </a>
                         </div>
                     </div>
                     <div className="piala">
