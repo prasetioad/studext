@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=auto src="https://www.studext.id/logo-studext.png" alt="logo"></a>
+ <img height=300 src="https://www.studext.id/logo-studext.png" alt="logo" ></a>
 </p>
 <div align="center">
   
@@ -15,6 +15,7 @@ Some test page from Studext and one of my portfolio in creating page using React
 
 This is an example of how to list things you need to use the software and how to install them.
 * [React Js](https://reactjs.org/)
+* [CSS Tailwind](https://tailwindcss.com/)
 
 
 ## Instalation
@@ -44,6 +45,7 @@ npm start
 * React Modal Packages
 * React Icon packages
 * React HorizontalScroll
+* CSS Tailwind
 
 ## Live Demo
 * https://mystudext.netlify.app/
